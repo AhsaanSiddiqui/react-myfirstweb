@@ -46,6 +46,10 @@ a:focus, a:hover {
     text-decoration: none !important;
 }
 
+.row {
+    width: 100%;
+}
+
 .regular_heading {
     margin-bottom: 25px;
     text-align: center;

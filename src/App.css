@@ -208,3 +208,87 @@ header .navbar-collapse {
     display: flex;
     align-items: center;
 }
+
+/* Pillar Sec */
+.pillar_sec {
+    padding: 70px 0 0;
+}
+.pillar_inner {
+    position: relative;
+    margin-bottom: -1px;
+}
+.div_pos {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+}
+.div_pos .row {
+    height: 100%;
+}
+.pos h5 {
+    color: #fff;
+    margin: 10px 0 0 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+.pos {
+    position: absolute;
+    text-align: center;
+}
+.salat_div {
+    top: 23.5%;
+    left: 44.4%;
+}
+.kalma_div {
+    top: 60%;
+    left: 10.5%;
+}
+.zakat_div {
+    top: 17px;
+    left: 51px;
+}
+.fastin_div {
+    top: 23%;
+    left: 40%;
+}
+.hajj_div {
+    top: 60%;
+    right: 14%;
+}
+.text_about {
+    position: absolute;
+    bottom: 40px;
+    text-align: center;
+    left: 35px;
+    width: 75%;
+}
+.text_about p {
+    font-size: 15px;
+    color: #fff;
+    line-height: 24px;
+}
+.text_about img {
+    margin-bottom: 25px;
+}
+/* end Pillar Sec */
+
+/* About Sec */
+.about_sec {
+    padding: 70px 0;
+    background-image: url(./images/bg_about_sec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about_content h1 {
+    color: #d5ab51;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.about_content p {
+    color: #fff;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+/* End About Sec */

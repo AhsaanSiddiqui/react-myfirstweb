@@ -9,12 +9,12 @@ import PackagePlan from '../Packages/PackagesPlan'
 
 const Package = (props) => {
   return(
-    <section class="package_sec">
+    <section className="package_sec">
         <Container>
             <Row>
                 <Col md={{span:5}}>
                     <div className="pkg_div">
-                        <img src={require ('../../images/pkg_inner.png')} class="img-fluid" />
+                        <img src={require ('../../images/pkg_inner.png')} className="img-fluid" />
                     </div>
                 </Col>
                 <Col md={{span:7}}>

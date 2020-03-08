@@ -348,4 +348,72 @@ a.pkg_btn {
 .pkg_div {
     margin-bottom: -23px;
 }
+.content_div h1 {
+    color: #891817;
+    font-size: 50px;
+}
 /* End Packages CSS */
+
+/* Latest Bayan */
+.latest_bayan {
+    background-image: url(./images/bg_latestbayan.jpg);
+    background-size: cover;
+    padding: 70px 0;
+    position: relative;
+}
+.latest_bayan h1 {
+    color: #fff;
+    text-align: center;
+}
+.latest-carousel {
+    text-align: center;
+    margin-top: 50px;
+}
+.latest-carousel .item {
+    outline: none;
+    box-shadow: none;
+    padding: 0 90px;
+}
+.latest-carousel a {
+    display: inline-block;
+    outline: none;
+    box-shadow: none;
+    
+}
+.latest-carousel a svg { 
+    width: 80px !important;
+    height: 80px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: #d5ab51;
+    font-size: 40px;
+    color: #000;
+}
+.latest-carousel p {
+    font-size: 20px;
+    border-top: 1px solid #fff;
+    padding-top: 20px;
+    margin-top: 40px;
+    text-transform: capitalize;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+}
+.latest-carousel .angleSlider {
+    font-size: 20px;
+    line-height: 0;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    outline: none;
+    background: #891817;
+    border-radius: 50px;
+    z-index: 99999;
+}
+/* End Latest Bayan */

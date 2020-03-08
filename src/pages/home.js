@@ -7,6 +7,7 @@ import Banner from '../Components/Banner';
 import Pillar from '../Components/Pilars';
 import AboutSecs from '../Components/AboutSec';
 import Package from '../Components/Packages/Packages';
+import LatestBayan from '../Components/Bayan/LatestBayan';
 
 
 
@@ -35,6 +36,7 @@ class Homepage extends Component {
                 <Pillar />
                 <AboutSecs />
                 <Package />
+                <LatestBayan />
 
             </div>
 

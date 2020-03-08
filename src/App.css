@@ -292,3 +292,60 @@ header .navbar-collapse {
     margin-bottom: 20px;
 }
 /* End About Sec */
+
+/* Packages CSS */
+.package_sec {
+    padding: 60px 0 0;
+}
+.package_content {
+    padding-top: 20px;
+}
+.content_div {
+    margin-bottom: 35px;
+}
+.content_div p {
+    font-weight: 500;
+}
+.pkg_box {
+    box-shadow: 0px 5px 32px 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+.head_pkg {
+    background-color: #32383c;
+    padding: 10px 0;
+    text-align: center;
+}
+.head_pkg h4 {
+    color: #fbbf40;
+}
+.pkg_box_content {
+    padding: 35px 25px 50px;
+}
+.pkg_box_content h4 {
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.pkg_box_content .img-fluid {
+    margin: 10px 0 25px 0;
+}
+.pkg_box_content p {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+a.pkg_btn {
+    border: 1px solid rgba(153, 153, 153, 0.3);
+    padding: 8px 30px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.36);
+    font-weight: 500;
+    display: table;
+    margin: 0 auto;
+}
+.pkg_box_content .btn_default {
+    padding: 7px 20px;
+}
+.pkg_div {
+    margin-bottom: -23px;
+}
+/* End Packages CSS */
